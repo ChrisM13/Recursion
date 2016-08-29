@@ -28,7 +28,6 @@ var getElementsByClassName = function(className){
   };
 
   test(document);
-  console.log('nodelist1',nodeList);
   return nodeList;
 };
 
